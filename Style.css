@@ -57,3 +57,7 @@
 a {
     text-decoration: none;
 }
+.sticker {
+    position: absolute;
+    right: 0;
+}
